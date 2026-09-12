@@ -1,4 +1,4 @@
-package Projects;
+
 
 abstract class Animal {
     public abstract String getNamegetBreed();
